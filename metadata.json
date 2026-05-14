@@ -1,0 +1,6 @@
+{
+  "name": "PhishShield AI",
+  "description": "AI-powered mobile phishing detection system with real-time URL, email, and file scanning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
